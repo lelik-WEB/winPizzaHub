@@ -142,6 +142,7 @@ namespace winPizzaHub
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(478, 117);
             this.label5.TabIndex = 2;
+            this.label5.Text = "Итальяни - бразильяни";
             // 
             // label6
             // 
